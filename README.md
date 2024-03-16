@@ -87,7 +87,7 @@ _Esteban Alejandro López_
 
 | Medio    | Link                                                    |
 | -------- | ------------------------------------------------------- |
-| Email    | [nexus@gmail.com](mailto:nexus@gmail.com)               |          |
+| Email    | [nexus@gmail.com](mailto:lopezestebanalejandro@gmail.com)               |          |
 | LinkedIn | [Perfil de LinkedIn](https://www.linkedin.com/in/esteban-alejandro-l%C3%B3pez-9898a231/) |
 
 ## 📄 Licencia
