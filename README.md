@@ -1,22 +1,22 @@
 <!-- Project logo -->
 <div align ='center'>
-    <a href = 'https://tp5ej1-elopez.netlify.app/'>
-    <img src='./img/imgdombom.webp' alt = 'NexusLogo' width = '300' />
+    <a href = 'https://tp5ej2elopez.netlify.app/'>
+    <img src='./img/imgdombom.webp' alt = 'Nexusdombomlogo' width = '300' />
     </a>
     <h1>Trabajo Practico N° 5</h1>
     <p>
     Ej N°2
     </p>
     <br>
-    <a href = 'https://tp5ej1-elopez.netlify.app/'>
+    <a href = 'https://tp5ej2elopez.netlify.app/'>
     <strong>Explorar página</strong>
     </a>
     <br>
-    <a href = 'https://tp5ej1-elopez.netlify.app/'>
+    <a href = 'https://tp5ej2elopez.netlify.app/'>
     Solicitar una mejora
     </a>
     .
-    <a href = 'https://tp5ej1-elopez.netlify.app/'>
+    <a href = 'https://tp5ej2elopez.netlify.app/'>
     Soporte
     </a>
     <br><br>
@@ -24,7 +24,7 @@
 
 ## Tablas de contenido
 
-- [💻 Sobre TP](#💻-sobre-nexus)
+- [💻 Sobre TP](#💻-sobre-tp)
 - [⚒️ Tecnologías](#⚒️tecnologias)
 - [✅ Requisitos](#✅-requisitos)
 - [💿 Instalación](#💿-instalación)
@@ -87,13 +87,12 @@ _Esteban Alejandro López_
 
 | Medio    | Link                                                    |
 | -------- | ------------------------------------------------------- |
-| Email    | [nexus@gmail.com](mailto:nexus@gmail.com)               |
-| Twitter  | [Perfil de Twitter](https://twitter.com/nexus)          |
-| LinkedIn | [Perfil de LinkedIn](https://www.linkedin.com/in/nexus) |
+| Email    | [nexus@gmail.com](mailto:nexus@gmail.com)               |          |
+| LinkedIn | [Perfil de LinkedIn](https://www.linkedin.com/in/esteban-alejandro-l%C3%B3pez-9898a231/) |
 
 ## 📄 Licencia
 
-Codigo y documentación copyright 2023-2024 de los autores de NEXUS. Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.md para obtener mas informacion.
+Codigo y documentación copyright 2023-2024  Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.md para obtener mas informacion.
 
 <!-- Markdown links & images -->
 
